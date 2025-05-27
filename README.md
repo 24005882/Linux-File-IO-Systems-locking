@@ -1,4 +1,6 @@
 # Linux-File-IO-Systems-locking
+Developed by : tharun M
+Regsister no :21224230288
 Ex07-Linux File-IO Systems-locking
 # AIM:
 To Write a C program that illustrates files copying and locking
